@@ -1,0 +1,1 @@
+Input some text to censor out some words from it.
